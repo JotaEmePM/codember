@@ -1,5 +1,5 @@
 <div align="center">
-![Codember](https://raw.githubusercontent.com/JotaEmePM/codember/master/images/codember.webp "Codember")
+![Codember](https://raw.githubusercontent.com/JotaEmePM/codember/master/images/codember.webp)
 
 # [codember](https://codember.dev)
 
