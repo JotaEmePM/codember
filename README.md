@@ -1,5 +1,6 @@
 <div align="center">
 ![Codember](https://raw.githubusercontent.com/JotaEmePM/codember/master/images/codember.webp)
+![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
 
 # [codember](https://codember.dev)
 
