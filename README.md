@@ -12,3 +12,4 @@ Resolución de retos que encontré en el juego [Codember](https://codember.dev/)
 |-----------|-------------------------------------------------|
 | #01       | (C#) [Program.cs](2023/CHALLENGE_01/Program.cs) |
 | #02       | (C#) [Program.cs](2023/CHALLENGE_02/Program.cs) |
+| #03       | (C#) [Program.cs](2023/CHALLENGE_03/Program.cs) |
